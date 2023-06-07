@@ -48,7 +48,7 @@ am5.ready(function () {
             labelSettings: {
                 rotation: -90,
                 textAlign: "center",
-                text: "Fairfax\n[bold](40,306 ARTICLES)",
+                text: "Fairfax Media Mngmt\n[bold](40,306 ARTICLES)",
                 forceHidden: false,
                 centerY: am5.p100,
                 dy: 15
